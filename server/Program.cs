@@ -13,7 +13,7 @@ namespace server
     class Program
     {
         const int portNo = 1500;
-        private const string ipAddress = "10.27.201.150";
+        private const string ipAddress = "127.0.0.1";
 
         static void Main(string[] args)
         {
